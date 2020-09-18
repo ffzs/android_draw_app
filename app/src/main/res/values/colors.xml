@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#82B1FF</color>
+    <color name="colorPrimaryDark">#8C9EFF</color>
+    <color name="colorAccent">#B388FF</color>
+    <color name="canvasBgColor">#0D0220</color>
+    <color name="canvasPaintColor">#EEFF41</color>
+</resources>
